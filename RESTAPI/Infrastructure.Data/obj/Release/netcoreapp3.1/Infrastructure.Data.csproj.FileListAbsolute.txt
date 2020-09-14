@@ -1,0 +1,15 @@
+D:\VipCommerceTest\RESTAPI\Infrastructure.Data\bin\Release\netcoreapp3.1\Infrastructure.Data.deps.json
+D:\VipCommerceTest\RESTAPI\Infrastructure.Data\bin\Release\netcoreapp3.1\Infrastructure.Data.runtimeconfig.json
+D:\VipCommerceTest\RESTAPI\Infrastructure.Data\bin\Release\netcoreapp3.1\Infrastructure.Data.runtimeconfig.dev.json
+D:\VipCommerceTest\RESTAPI\Infrastructure.Data\bin\Release\netcoreapp3.1\Infrastructure.Data.dll
+D:\VipCommerceTest\RESTAPI\Infrastructure.Data\bin\Release\netcoreapp3.1\Infrastructure.Data.pdb
+D:\VipCommerceTest\RESTAPI\Infrastructure.Data\bin\Release\netcoreapp3.1\Domain.dll
+D:\VipCommerceTest\RESTAPI\Infrastructure.Data\bin\Release\netcoreapp3.1\Domain.pdb
+D:\VipCommerceTest\RESTAPI\Infrastructure.Data\obj\Release\netcoreapp3.1\Infrastructure.Data.csprojAssemblyReference.cache
+D:\VipCommerceTest\RESTAPI\Infrastructure.Data\obj\Release\netcoreapp3.1\Infrastructure.Data.AssemblyInfoInputs.cache
+D:\VipCommerceTest\RESTAPI\Infrastructure.Data\obj\Release\netcoreapp3.1\Infrastructure.Data.AssemblyInfo.cs
+D:\VipCommerceTest\RESTAPI\Infrastructure.Data\obj\Release\netcoreapp3.1\Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\VipCommerceTest\RESTAPI\Infrastructure.Data\obj\Release\netcoreapp3.1\Infrastructure.Data.csproj.CopyComplete
+D:\VipCommerceTest\RESTAPI\Infrastructure.Data\obj\Release\netcoreapp3.1\Infrastructure.Data.dll
+D:\VipCommerceTest\RESTAPI\Infrastructure.Data\obj\Release\netcoreapp3.1\Infrastructure.Data.pdb
+D:\VipCommerceTest\RESTAPI\Infrastructure.Data\obj\Release\netcoreapp3.1\Infrastructure.Data.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\VipCommerceTest\RESTAPI\Application.DTO\bin\Release\netcoreapp3.1\Application.DTO.deps.json
+D:\VipCommerceTest\RESTAPI\Application.DTO\bin\Release\netcoreapp3.1\Application.DTO.dll
+D:\VipCommerceTest\RESTAPI\Application.DTO\bin\Release\netcoreapp3.1\Application.DTO.pdb
+D:\VipCommerceTest\RESTAPI\Application.DTO\bin\Release\netcoreapp3.1\Domain.Core.dll
+D:\VipCommerceTest\RESTAPI\Application.DTO\bin\Release\netcoreapp3.1\Domain.dll
+D:\VipCommerceTest\RESTAPI\Application.DTO\bin\Release\netcoreapp3.1\Domain.Core.pdb
+D:\VipCommerceTest\RESTAPI\Application.DTO\bin\Release\netcoreapp3.1\Domain.pdb
+D:\VipCommerceTest\RESTAPI\Application.DTO\obj\Release\netcoreapp3.1\Application.DTO.AssemblyInfoInputs.cache
+D:\VipCommerceTest\RESTAPI\Application.DTO\obj\Release\netcoreapp3.1\Application.DTO.AssemblyInfo.cs
+D:\VipCommerceTest\RESTAPI\Application.DTO\obj\Release\netcoreapp3.1\Application.DTO.csproj.CoreCompileInputs.cache
+D:\VipCommerceTest\RESTAPI\Application.DTO\obj\Release\netcoreapp3.1\Application.DTO.csproj.CopyComplete
+D:\VipCommerceTest\RESTAPI\Application.DTO\obj\Release\netcoreapp3.1\Application.DTO.dll
+D:\VipCommerceTest\RESTAPI\Application.DTO\obj\Release\netcoreapp3.1\Application.DTO.pdb
+D:\VipCommerceTest\RESTAPI\Application.DTO\obj\Release\netcoreapp3.1\Application.DTO.csprojAssemblyReference.cache

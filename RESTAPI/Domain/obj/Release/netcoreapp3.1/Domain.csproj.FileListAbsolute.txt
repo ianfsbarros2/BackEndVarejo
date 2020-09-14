@@ -1,0 +1,9 @@
+D:\VipCommerceTest\RESTAPI\Domain\bin\Release\netcoreapp3.1\Domain.deps.json
+D:\VipCommerceTest\RESTAPI\Domain\bin\Release\netcoreapp3.1\Domain.dll
+D:\VipCommerceTest\RESTAPI\Domain\bin\Release\netcoreapp3.1\Domain.pdb
+D:\VipCommerceTest\RESTAPI\Domain\obj\Release\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\VipCommerceTest\RESTAPI\Domain\obj\Release\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\VipCommerceTest\RESTAPI\Domain\obj\Release\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\VipCommerceTest\RESTAPI\Domain\obj\Release\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\VipCommerceTest\RESTAPI\Domain\obj\Release\netcoreapp3.1\Domain.dll
+D:\VipCommerceTest\RESTAPI\Domain\obj\Release\netcoreapp3.1\Domain.pdb

@@ -1,0 +1,16 @@
+D:\VipCommerceTest\RESTAPI\Infrastruture.Repository\bin\Release\netcoreapp3.1\Infrastruture.Repository.deps.json
+D:\VipCommerceTest\RESTAPI\Infrastruture.Repository\bin\Release\netcoreapp3.1\Infrastruture.Repository.dll
+D:\VipCommerceTest\RESTAPI\Infrastruture.Repository\bin\Release\netcoreapp3.1\Infrastruture.Repository.pdb
+D:\VipCommerceTest\RESTAPI\Infrastruture.Repository\bin\Release\netcoreapp3.1\Domain.Core.dll
+D:\VipCommerceTest\RESTAPI\Infrastruture.Repository\bin\Release\netcoreapp3.1\Domain.dll
+D:\VipCommerceTest\RESTAPI\Infrastruture.Repository\bin\Release\netcoreapp3.1\Infrastructure.Data.dll
+D:\VipCommerceTest\RESTAPI\Infrastruture.Repository\bin\Release\netcoreapp3.1\Domain.Core.pdb
+D:\VipCommerceTest\RESTAPI\Infrastruture.Repository\bin\Release\netcoreapp3.1\Infrastructure.Data.pdb
+D:\VipCommerceTest\RESTAPI\Infrastruture.Repository\bin\Release\netcoreapp3.1\Domain.pdb
+D:\VipCommerceTest\RESTAPI\Infrastruture.Repository\obj\Release\netcoreapp3.1\Infrastruture.Repository.csprojAssemblyReference.cache
+D:\VipCommerceTest\RESTAPI\Infrastruture.Repository\obj\Release\netcoreapp3.1\Infrastruture.Repository.AssemblyInfoInputs.cache
+D:\VipCommerceTest\RESTAPI\Infrastruture.Repository\obj\Release\netcoreapp3.1\Infrastruture.Repository.AssemblyInfo.cs
+D:\VipCommerceTest\RESTAPI\Infrastruture.Repository\obj\Release\netcoreapp3.1\Infrastruture.Repository.csproj.CoreCompileInputs.cache
+D:\VipCommerceTest\RESTAPI\Infrastruture.Repository\obj\Release\netcoreapp3.1\Infrastruture.Repository.csproj.CopyComplete
+D:\VipCommerceTest\RESTAPI\Infrastruture.Repository\obj\Release\netcoreapp3.1\Infrastruture.Repository.dll
+D:\VipCommerceTest\RESTAPI\Infrastruture.Repository\obj\Release\netcoreapp3.1\Infrastruture.Repository.pdb
